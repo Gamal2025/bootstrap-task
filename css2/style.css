@@ -1,0 +1,91 @@
+/* CSS Document */
+
+
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color:green;
+	
+	}
+
+
+.navbar-dark .navbar-brand{
+	font-size:32px;
+	color:3c3;
+	font-family:'Dancing Script', cursive;
+
+	}
+
+.navbar-dark .navbar-brand:hover{
+		color:green;
+	}
+
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
+	color:green;
+	}
+	
+.carousel-indicators li{
+	height:20px;
+	width:20px;
+	border-radius:50%;
+	}
+.carousel-inner {
+	max-height:100vh;
+	}
+	.c{
+		padding-top:80px;
+		font-weight:normal;
+		color:rgba(0,153,0,1);
+		
+		}
+	.k{ 
+	padding-top:30px;
+	padding-bottom:70px;
+	font-size:22px;
+	
+	}
+	.tc{font-size:50px;
+	color:#b1b1b1;
+	margin-bottom:15px;
+	}
+	.pragraph_color p{color:#b1b1b1;margin:15px;}
+	.y{
+		background:rgba(102,102,102,1);
+		}
+		
+	
+.ch{height:500px;}
+.x{border-bottom:2px solid rgba(102,102,102,1);}
+.carousel-caption 
+{top:400px;}
+.carousel-caption h5{font-size:50px;}
+.color-container
+{
+background:rgba(204,204,204,1);}
+.style-fourth {
+
+	
+	padding:20px;
+	
+	}
+.numberfive{
+	padding-top: 60px;
+	
+	}
+.numberfive h5{
+	margin-top:50px;
+	
+	}
+	.numbersix{
+		padding-top:30px;
+		padding-bottom:20px;
+		}
+	.numbersix h1{
+			color:rgba(0,153,0,1);
+		
+		}
+		.footer_f{
+			color:rgba(255,255,255,1);
+			font-size:15px;
+			padding:15px;
+			}
